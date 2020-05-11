@@ -1,0 +1,23 @@
+.game {
+  height: 50vh;
+  width: 100vw;
+  border-bottom: white 2px solid;
+}
+
+.game button {
+  height: 100%;
+}
+
+.game .wahmed {
+  width: 8.5vw;
+  margin-bottom: 0px;
+}
+
+.game .tacos {
+  width: 5vw;
+}
+
+.saut {
+  height: 15vh;
+}
+/*# sourceMappingURL=style.css.map */
